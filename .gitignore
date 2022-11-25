@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.jpeg
+*.bmp
+.vscode/
+*.ckpt
+*.pth
+*.zip
+*.tar
+*.rar
+*.bin
+*.pkl
+
